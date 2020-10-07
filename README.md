@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [TradePlus](https://www.kuveytturk.com.tr/bireysel/yatirim/hazine-urunleri/tradeplus)
 
-- 🌱 I’m currently learning **Nodejs, C#, Java, Android**
+- 🌱 I’m currently learning **MERN Development**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/ahmetcaglayan/](https://www.linkedin.com/in/ahmetcaglayan/)
 
