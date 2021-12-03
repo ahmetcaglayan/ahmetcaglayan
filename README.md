@@ -11,7 +11,7 @@
 
 - 📝 I regulary write articles on [https://medium.com/@ahmetcaglayan](https://medium.com/@ahmetcaglayan)
 
-- 💬 Ask me about **react, css, html, javascript, react native**
+- 💬 Ask me about **react, css, html, javascript, react native, microfrontend, node.js, typescript**
 
 - 📫 How to reach me **ahmet.caglayan@yahoo.com**
 
