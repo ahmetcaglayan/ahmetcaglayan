@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmetcaglayan" alt="ahmetcaglayan" /> </p>
 
-- 🔭 I’m currently working on [Akinon](https://www.akinon.com/)
+- 🔭 I’m currently working on ...
 
 - 🌱 I’m currently learning **MERN Development**
 
