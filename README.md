@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmet Çağlayan</h1>
-<h3 align="center">A passionate frontend developer from Turkey</h3>
+<h3 align="center">A passionate Frontend Manager from Azerbaijan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmetcaglayan" alt="ahmetcaglayan" /> </p>
 
@@ -11,7 +11,7 @@
 
 - 📝 I regulary write articles on [https://medium.com/@ahmetcaglayan](https://medium.com/@ahmetcaglayan)
 
-- 💬 Ask me about **react, css, html, javascript, react native, microfrontend, node.js, typescript**
+- 💬 Ask me about **react, redux, css, html, javascript, react native, microfrontend, node.js, typescript**
 
 - 📫 How to reach me **ahmet.caglayan@yahoo.com**
 
